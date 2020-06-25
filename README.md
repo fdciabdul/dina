@@ -1,1 +1,1 @@
-demo [demo](https:/fdciabdul.github.io/dina)
+demo [demo](https://fdciabdul.github.io/dina)
